@@ -1,0 +1,3 @@
+#nesta pasta colocamos os arquivos que nao serao commitados pelo Git
+.env
+node_modules
